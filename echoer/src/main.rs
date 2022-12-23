@@ -21,6 +21,6 @@ fn main() {
     )
     .get_matches();
 
-    println!("{:#?", matches);
+    println!("{:#?}", matches);
 
 }
