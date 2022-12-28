@@ -21,6 +21,12 @@ fn main() {
     )
     .get_matches();
 
-    println!("{:#?}", matches);
+    
+
+    let ending = "\n";
+
+    
+
+    println!("{}{}", text.join(), ending);
 
 }
