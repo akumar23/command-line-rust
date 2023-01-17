@@ -70,7 +70,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "cat-clone"
+name = "catr"
 version = "0.1.0"
 dependencies = [
  "assert_cmd",
